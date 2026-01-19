@@ -1,6 +1,6 @@
 # Read me – availability statement 
 
-Article: Labecka et al. Hydration gradients drive lipid self-segregation 
+Article: Labecka et al. Hydration gradients drive lipid self-segregation, PNAS, 2026. 
 https://doi.org/10.1073/pnas.2518553123. 
 
 The GitHub repository https://github.com/n-labecka/PNAS_2025_Hydration_gradients_drive_lipid_selfsegregation contains raw and processed data sets and codes which were used to construct the figures in the main article. The data set in SI as calibration curve and phase diagram data is not provided. 
